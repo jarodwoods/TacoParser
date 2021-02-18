@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\..\..\..\AppData\Roaming\Microsoft\VisualStudio\16.0_3a0c5ca1\ActivityLog.xml" Link="ActivityLog.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="Taco_Bell-US-AL-Alabama.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
